@@ -2,7 +2,9 @@
 [!] Важно: Для работы всех скриптов необходимо установить расширение tampermonkey/greasemonkey на ваш браузер
 > Для chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-> Для mozilla: https://addons.mozilla.org/ru/firefox/addon/greasemonkey/
+> Для mozilla: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+
+> Для safari https://safari-extensions.apple.com/details/?id=net.tampermonkey.safari-G3XV72R5TC
 
 > Для opera https://addons.opera.com/ru/extensions/details/tampermonkey-beta/
 
