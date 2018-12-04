@@ -4,6 +4,8 @@
 
 > Для mozilla: https://addons.mozilla.org/ru/firefox/addon/greasemonkey/
 
+> Для opera https://addons.opera.com/ru/extensions/details/tampermonkey-beta/
+
 > Для прочих браузеров ну погуглите как, я в душе не в курсе
 
 # Wifi Auto Login
