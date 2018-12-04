@@ -1,4 +1,4 @@
-# Как установить это тупое говно тупого говна
+# Как установить данный userscript
 [!] Важно: Для работы всех скриптов необходимо установить расширение tampermonkey/greasemonkey на ваш браузер
 > Для chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
