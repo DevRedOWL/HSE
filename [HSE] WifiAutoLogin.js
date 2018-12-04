@@ -2,7 +2,7 @@
 // @name         AutoLoginToTheFuckingHseWiFi
 // @namespace    https://hse.devredowl.ru/autocon
 // @version      1.0
-// @description  Автологин на тупое говно тупого говна
+// @description  Автологин на лагучий вышкинский вайfuck
 // @author       Daniel Varentsov
 // @match        perm-wlc-01.hse.ru/*
 // @grant        none
