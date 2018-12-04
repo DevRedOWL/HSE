@@ -1,7 +1,9 @@
 # Как установить это тупое говно тупого говна
 [!] Важно: Для работы всех скриптов необходимо установить расширение tampermonkey/greasemonkey на ваш браузер
 > Для chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
 > Для mozilla: https://addons.mozilla.org/ru/firefox/addon/greasemonkey/
+
 > Для прочих браузеров ну погуглите как, я в душе не в курсе
 
 # Wifi Auto Login
