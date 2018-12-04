@@ -1,5 +1,7 @@
 # Как установить данный userscript
 [!] Важно: Для работы всех скриптов необходимо установить расширение tampermonkey/greasemonkey на ваш браузер
+[!] Тоже немного важно: Отключите гугл переводчик перед копированием из файлов, он очень любит переводить функции
+
 > Для chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 > Для mozilla: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
