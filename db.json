@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "redowl",
-      "data": [
+      "data": {
         {
           "id": "1",
           "number": 322,
@@ -15,7 +15,7 @@
           "date_created": "21.03.1971",
           "comment": "123"
         }
-      ]
+      }
     },
     {
       "id": "testuser",
