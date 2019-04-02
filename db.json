@@ -1,16 +1,18 @@
 {
   "posts": [
     {
-      "id": "1",
-      "number": 322,
-      "date_created": "21.03.1971",
-      "comment": "123"
+      "id": "test1",
+      "subject": "SUBJ1",
+      "task": "TASK1",
+      "author": "davarentsov@edu.hse.ru",
+      "deadline": "21.03.1971"
     },
     {
-      "id": "2",
-      "number": 228,
-      "date_created": "21.03.1971",
-      "comment": "123"
+      "id": "test2",
+      "subject": "SUBJ2",
+      "task": "TASK2",
+      "author": "davarentsov@edu.hse.ru",
+      "deadline": "21.03.1971"
     }
   ],
   "users": [
