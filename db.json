@@ -1,7 +1,8 @@
 {
   "users": [
     {
-      "redowl": [
+      "id": "redowl",
+      "data": [
         {
           "id": "1",
           "number": 322,
@@ -17,7 +18,8 @@
       ]
     },
     {
-      "testuser": [
+      "id": "testuser",
+      "data": [
         {
           "id": "1",
           "number": 322,
