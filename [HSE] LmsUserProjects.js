@@ -8,6 +8,6 @@
 // @require      http://devredowl.ru/PublicJS/jq330.js
 // @require      http://devredowl.ru/PublicJS/crypto.js
 // @require      http://devredowl.ru/PublicJS/sweetalert.js
-// @require      https://raw.githubusercontent.com/DevRedOWL/HSE/master/lms_up.min.js
+// @require      https://raw.githubusercontent.com/DevRedOWL/HSE/MyLMS/lms.min.js
 // @grant        none
 // ==/UserScript==
