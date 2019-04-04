@@ -1,3 +1,15 @@
+// ==UserScript==
+// @name         [HSE] LmsUserProjects
+// @namespace    https://hse.devredowl.ru/customs
+// @version      1.0 beta
+// @description  User Own LMS
+// @author       Daniel Varentsov
+// @match        https://lms.hse.ru/student.php?ctg=personal*
+// @require      https://code.jquery.com/jquery-3.3.0.min.js
+// @require      http://devredowl.ru/PublicJS/crypto.js
+// @grant        none
+// ==/UserScript==
+
 var _0x1af9 = [
     '\x30\x36\x54\x51\x6c\x74\x4f\x5a\x30\x71\x76\x52\x6b\x4e\x43\x35\x30\x34\x67\x3d',
     '\x30\x34\x4c\x52\x67\x39\x4f\x4b\x30\x35\x76\x51\x70\x74\x4f\x6b\x30\x72\x63\x3d',
