@@ -13,7 +13,7 @@
 > Для прочих браузеров ну погуглите как, я в душе не в курсе
 
 # Wifi Auto Login
-1. Открываем файл WifiAutoLogin.js
+1. Открываем файл [WifiAutoLogin.js](https://github.com/DevRedOWL/HSE/blob/master/%5BHSE%5D%20WifiAutoLogin.js)
 2. Копируем содержимое
 3. Открываем параметры расширения tampermonkey/greasemonkey 
 4. Нажимаем добавить скрипт (В chrome - кнопку [+] слева от "Установленные скрипты")
@@ -23,7 +23,7 @@
 8. Не забываем его включить в панели "Установленные скрипты"
 
 # LMS Auto Login
-1. Открываем файл LmsAutoLogin.js
+1. Открываем файл [LmsAutoLogin.js](https://github.com/DevRedOWL/HSE/blob/master/%5BHSE%5D%20LmsAutoLogin.js)
 2. Копируем содержимое
 3. Открываем параметры расширения tampermonkey/greasemonkey 
 4. Нажимаем добавить скрипт (В chrome - кнопку [+] слева от "Установленные скрипты")
@@ -35,7 +35,7 @@
 10. Не забываем его включить в панели "Установленные скрипты"
 
 # LMS User Projects
-1. Открываем файл WifiAutoLogin.js
+1. Открываем файл [LmsUserProjects.js](https://github.com/DevRedOWL/HSE/blob/master/%5BHSE%5D%20LmsUserProjects.js)
 2. Копируем содержимое
 3. Открываем параметры расширения tampermonkey/greasemonkey 
 4. Нажимаем добавить скрипт (В chrome - кнопку [+] слева от "Установленные скрипты")
