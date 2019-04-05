@@ -15,6 +15,6 @@ jQuery(document).ready(function getlms(){
     var password = 'ПАРОЛЬ_ОТ_LMS'
     jQuery("input[name$='user_login']").val(login);
     jQuery("input[name$='user_password']").val(password);
-    jQuery("input[name$='userLogin']").click();
+    jQuery("input[name$='group1[userLogin]']").click();
     console.log('LMS AutoLogin by #RedOWL');
 });
