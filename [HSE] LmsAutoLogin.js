@@ -5,7 +5,7 @@
 // @description  enter something useful
 // @author       Daniel Varentsov
 // @match        *://lms.hse.ru/*
-// @require      https://code.jquery.com/jquery-3.3.0.min.js
+// @require      http://devredowl.ru/PublicJS/jq330.js
 // @grant        none
 // ==/UserScript==
 
