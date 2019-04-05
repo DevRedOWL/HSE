@@ -4,7 +4,7 @@
 // @version      2.0
 // @description  enter something useful
 // @author       Daniel Varentsov
-// @match        https://lms.hse.ru/index.php
+// @match        *://lms.hse.ru/*
 // @require      https://code.jquery.com/jquery-3.3.0.min.js
 // @grant        none
 // ==/UserScript==
